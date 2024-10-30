@@ -2,6 +2,11 @@
 
 ## 📒 Notes
 
+### 📅 28 October
+- 🐛 @fix regenerate model error must refresh page
+- ✨ @feat workspace page
+- ✨ @feat knowledge collection page
+
 ### 📅 23 October
 - 🐛 @fix bug select model from best model ai pick
 - ✨ @feat edit user message
