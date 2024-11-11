@@ -2,6 +2,17 @@
 
 ## 📒 Notes
 
+### 📅 12 November
+- 🎨 @style restyle sidebar dashboard
+- 🎨 @style change primary color default to teal
+- ✨ @feat chat sidebar collapsed button toggle
+- ✨ @feat add regenerate with current model button in selector dropdown when click "regenerate" in chat
+- 🐛 @fix responsive in small width screen for chat (fixing code snippet max width)
+- ✨ @feat add favorites chat in right panel
+- ✨ @feat favorites chat button in assistant chat
+- 🎨 @style try new logo
+- 🐛 @fix image user upload not show
+
 ### 📅 28 October
 - 🐛 @fix regenerate model error must refresh page
 - ✨ @feat workspace page
