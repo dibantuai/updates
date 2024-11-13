@@ -2,6 +2,11 @@
 
 ## 📒 Notes
 
+### 📅 13 November
+- 🎨 @style add light mode support
+- ✨ @feat change color mode dark/light
+- ✨ @feat sidebar chat auto collapsed on mobile device
+
 ### 📅 12 November
 - 🎨 @style restyle sidebar dashboard
 - 🎨 @style change primary color default to teal
