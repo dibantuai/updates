@@ -2,6 +2,15 @@
 
 ## 📒 Notes
 
+### 📅 15 November
+- 🎨 @style sidebar chats sticky and overlay when on mobile screen
+- ✨ @feat chatbox folders
+- ✨ @feat date time on chat messages
+- ✨ @feat shorcut action on dashboard
+
+### 📅 14 November
+- ✨ @feat login google with firebase
+
 ### 📅 13 November
 - 🎨 @style add light mode support
 - ✨ @feat change color mode dark/light
